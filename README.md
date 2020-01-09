@@ -1,3 +1,3 @@
-# js-8b8yyq
+# js-vue-starter-template
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-8b8yyq)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-vue-starter-template)
